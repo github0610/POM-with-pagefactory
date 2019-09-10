@@ -1,0 +1,9 @@
+<suite name="Test Maven suite"  >
+  <test name="Test Maven Testing"   >
+    <classes>
+      <class name="CatlogNavigator/src/test/java/POM/QAM/Demo/DemoTest.java" />
+      <class name="CatlogNavigator/src/test/java/POM/QAM/Demo/DemoTest2.java" />
+      <class name="CatlogNavigator/src/test/java/POM/QAM/Demo/DemoTest3.java" />
+   </classes>
+ </test>
+</suite>

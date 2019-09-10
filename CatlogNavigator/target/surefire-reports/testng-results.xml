@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="73" started-at="2019-07-30T03:24:59Z" finished-at="2019-07-30T03:24:59Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="73" started-at="2019-07-30T03:24:59Z" finished-at="2019-07-30T03:24:59Z">
+      <class name="POM.QAM.Demo.DemoTest">
+        <test-method status="PASS" signature="Div()[pri:0, instance:POM.QAM.Demo.DemoTest@3d8c7aca]" name="Div" duration-ms="26" started-at="2019-07-30T03:24:59Z" finished-at="2019-07-30T03:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Div -->
+        <test-method status="PASS" signature="Multi()[pri:0, instance:POM.QAM.Demo.DemoTest@3d8c7aca]" name="Multi" duration-ms="1" started-at="2019-07-30T03:24:59Z" finished-at="2019-07-30T03:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multi -->
+        <test-method status="PASS" signature="Sub()[pri:0, instance:POM.QAM.Demo.DemoTest@3d8c7aca]" name="Sub" duration-ms="0" started-at="2019-07-30T03:24:59Z" finished-at="2019-07-30T03:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+        <test-method status="PASS" signature="add()[pri:0, instance:POM.QAM.Demo.DemoTest@3d8c7aca]" name="add" duration-ms="0" started-at="2019-07-30T03:24:59Z" finished-at="2019-07-30T03:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+      </class> <!-- POM.QAM.Demo.DemoTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
